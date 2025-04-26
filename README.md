@@ -3,10 +3,6 @@
 
 📍 Karachi, Pakistan | ✉️ [sahardevjani635@gmail.com](mailto:sahardevjani635@gmail.com) | 📞 [+92-325-2160713](tel:+923252160713)  
 
-<div align="center">
-  [Social media badges remain unchanged...]
-</div>
-
 ---
 
 ## 🧩 About Me  
