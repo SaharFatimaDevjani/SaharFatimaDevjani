@@ -155,6 +155,6 @@ I'm a final-year Computer Science student at MAJU building business-ready web so
 
 ---
 
- **🚀 *"Progress over perfection"***
- **🔗 Open to collaborations and job/internship opportunities!**
+ **🚀 *"Progress over perfection"***<br/>
+ **🔗 Open to collaborations and job/internship opportunities!**<br/>
  **📫 Let's connect and create something amazing!**
