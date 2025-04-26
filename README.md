@@ -25,11 +25,11 @@
 
 ## 🧩 About Me  
 
-Final year Computer Science student at MAJU building practical solutions with React and Django. Currently:  
+I'm a final-year Computer Science student at MAJU building business-ready web solutions with React and Django. Currently leveling up through Meta's Front-End Certificate while managing Devjani Masala's digital presence.  
 
-🔹 Enhancing frontend skills through Meta Professional Certificate (2/9 courses completed)  
-🔹 Managing Devjani Masala's digital presence and e-commerce development  
-🔹 Passionate about creating business-focused web applications  
+🔹 **Build**: Scalable web apps with React & Django  
+🔹 **Learn**: Currently mastering advanced frontend (2/9 Meta courses completed)  
+🔹 **Manage**: E-commerce development & social media for family spice business  
 
 *"Turning chai into code since 2019"* ☕→💻  
 
