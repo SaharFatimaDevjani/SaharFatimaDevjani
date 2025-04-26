@@ -121,7 +121,7 @@ Final year Computer Science student at MAJU building practical solutions with Re
 **BSCS** - Muhammad Ali Jinnah University (2020-2024)  
 
 **Ongoing:**  
-- Meta Front-End Developer Professional Certificate (Completed: Introduction to Frontend Development, React Basics)
+- Meta Front-End Developer Professional Certificate
 
 **Completed Certifications:**  
 | Course | Provider | Year |
@@ -134,6 +134,8 @@ Final year Computer Science student at MAJU building practical solutions with Re
 | SQL Specialization | University of Colorado | 2024 |
 | Crash Course on Python | Google/Coursera | 2023 |
 | Entrepreneurship | IBA CED | 2022 |
+| Introduction to Frontend Development | Meta | 2025 |
+| React Basics | Meta | 2025 |
 
 ---
 
@@ -153,20 +155,6 @@ Final year Computer Science student at MAJU building practical solutions with Re
 
 ---
 
-## 💡 Project Video Recommendation  
-
-For your GitHub portfolio:  
-✅ **Recommended for:**  
-- Complex projects like Fresh Baked (30-60 sec demo)  
-- Projects with animations/interactions  
-- GIF previews for quick visualization  
-
-❌ **Not needed for:**  
-- Simple static websites  
-- Projects with straightforward CRUD operations  
-
----
-
 > 🚀 *"Progress over perfection"*  
-> 🔗 Open to collaborations and opportunities!  
+> 🔗 Open to collaborations and job/internship opportunities!  
 > 📫 Let's connect and create something amazing!
