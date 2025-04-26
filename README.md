@@ -10,10 +10,10 @@
   <a href="https://github.com/SaharFatimaDevjani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/SaharFatimaDevjani/" target="_blank">
+  <a href="https://www.facebook.com/DevjaniMasalaDryFruits" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/saharfatimadevjani/" target="_blank">
+  <a href="https://www.instagram.com/devjanimasaladryfruits/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/channel/UC8F5iBdq19ZMwjFoQYvrB7g" target="_blank">
@@ -27,8 +27,8 @@
 
 Final year Computer Science student at MAJU building practical solutions with React and Django. Currently:  
 
-🔹 Enhancing skills through CodeGirls x ClickChain Fellowship  
-🔹 Managing digital presence for family spice business (Devjani Masala)  
+🔹 Enhancing frontend skills through Meta Professional Certificate (2/9 courses completed)  
+🔹 Managing Devjani Masala's digital presence and e-commerce development  
 🔹 Passionate about creating business-focused web applications  
 
 *"Turning chai into code since 2019"* ☕→💻  
@@ -37,42 +37,48 @@ Final year Computer Science student at MAJU building practical solutions with Re
 
 ## 🚀 Project Portfolio
 
-### 🛒 1. Django E-Commerce (Devjani Masala Project)  
+### 1. Django E-Commerce (Devjani Masala)  
 *Custom online store prototype for spices business*  
 **Tech:** Python, Django, MySQL, HTML/CSS  
-**Features:** Product catalog, admin dashboard, basic cart functionality  
-💻 [Code](https://github.com/SaharFatimaDevjani/django-ecommerce)  
+**Features:** Product catalog, admin dashboard, cart system  
+💻 [Code](https://github.com/SaharFatimaDevjani/Devjanimasala)  
 
-### 🍞 2. Fresh Baked - React Bakery Portal  
+### 2. TastyTreats MVC Application  
+*ASP.NET snack inventory management system*  
+**Tech:** ASP.NET MVC, HTML/CSS  
+**Features:** CRUD operations, clean interface  
+💻 [Code](https://github.com/SaharFatimaDevjani/MVCDemo)  
+
+### 3. Fresh Baked - React Bakery Portal  
 *Admin-controlled bakery showcase with Firebase*  
 **Tech:** React, Tailwind CSS, Firebase  
 **Features:** Admin auth, product management, animations  
 🔗 [Live Demo](https://lnkd.in/dY4QS27R) | 💻 [Code](https://lnkd.in/dvYqrEkq)  
 
-### 🛍️ 3. Product CRUD Dashboard  
+### 4. Product CRUD Dashboard  
 *Mock product management system*  
 **Tech:** React, MockAPI, SweetAlert2  
 **Features:** Dynamic forms, responsive data table  
 🔗 [Live Demo](https://lnkd.in/d8WFX98x) | 💻 [Code](https://lnkd.in/dRWk9KJq)  
 
-### ✈️ 4. StepUP Tourism Website  
+### 5. StepUP Tourism Website  
 *Frontend development practice project*  
 **Tech:** HTML5, CSS3, JavaScript  
-💻 [Code](https://github.com/SaharFatimaDevjani/tourism-website)  
+🔗 [Live Demo](https://saharfatimadevjani.github.io/StepUP/) | 💻 [Code](https://github.com/SaharFatimaDevjani/StepUP)  
 
-### 🖥️ 5. CSS Assignment Website  
+### 6. CSS Assignment Website  
 *Advanced CSS techniques showcase*  
 **Tech:** HTML, CSS  
-💻 [Code](https://github.com/SaharFatimaDevjani/css-assignment)  
+🔗 [Live Demo](https://saharfatimadevjani.github.io/CSSAssignment/) | 💻 [Code](https://github.com/SaharFatimaDevjani/CSSAssignment)  
 
-### 🛡️ 6. Insurance Agent Website  
+### 7. Insurance Agent Website  
 *Client WordPress development project*  
 **Tech:** WordPress, Custom CSS  
 🌐 *Privately hosted*  
 
-### 🌶️ Devjani Masala (Current Project)  
-*Upcoming WooCommerce store for family business*  
-**Status:** Digital marketing via [Facebook](https://www.facebook.com/SaharFatimaDevjani/) & [Instagram](https://www.instagram.com/saharfatimadevjani/)  
+### 8. Devjani Masala (In Progress)  
+*Upcoming WooCommerce store*  
+**Current Work:** Social media marketing on [Facebook](https://www.facebook.com/DevjaniMasalaDryFruits) & [Instagram](https://www.instagram.com/devjanimasaladryfruits/)  
 
 ---
 
@@ -89,17 +95,24 @@ Final year Computer Science student at MAJU building practical solutions with Re
 **Backend:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 **Tools:**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 
 ---
 
@@ -107,15 +120,19 @@ Final year Computer Science student at MAJU building practical solutions with Re
 
 **BSCS** - Muhammad Ali Jinnah University (2020-2024)  
 
-| Certification | Provider | Year |
-|--------------|----------|------|
+**Ongoing:**  
+- Meta Front-End Developer Professional Certificate (Completed: Introduction to Frontend Development, React Basics)
+
+**Completed Certifications:**  
+| Course | Provider | Year |
+|--------|----------|------|
 | Frontend Development | CodeGirls | 2019 |
 | Python & Django | CodeGirls | 2023 |
 | WordPress Development | CodeGirls | 2022 |
-| Crash Course on Python | Google/Coursera | 2023 |
-| SQL Specialization | University of Colorado | 2024 |
 | ASP.NET MVC | Great Learning | 2024 |
 | Node.js Fundamentals | Simplilearn | 2024 |
+| SQL Specialization | University of Colorado | 2024 |
+| Crash Course on Python | Google/Coursera | 2023 |
 | Entrepreneurship | IBA CED | 2022 |
 
 ---
@@ -124,20 +141,32 @@ Final year Computer Science student at MAJU building practical solutions with Re
 
 **CodeGirls x ClickChain Fellow** (2024-Present)  
 - Developing industry-standard projects with mentorship  
-- Participating in hackathons and workshops  
+- Participating in hackathons and technical workshops  
 
 **Frontend Developer Intern** @ Robx AI (2023)  
 - Built websites using React and Next.js  
 - Implemented responsive UI components  
 
-**Digital Marketer** @ Devjani Masala (2020-Present)  
-- Managing social media presence  
-- Creating recipe content and customer engagement  
+**Digital Content Creator** @ Devjani Masala (2020-Present)  
+- Managing social media accounts and customer engagement  
+- Creating recipe videos and promotional content  
 
 ---
 
+## 💡 Project Video Recommendation  
 
-> 🚀 *"Progress over perfection"* - Currently learning: Advanced React patterns & WooCommerce development  
+For your GitHub portfolio:  
+✅ **Recommended for:**  
+- Complex projects like Fresh Baked (30-60 sec demo)  
+- Projects with animations/interactions  
+- GIF previews for quick visualization  
 
-> 📫 Let's Connect and create something amazing together!
-I'm open to internship/job opportunities, collaborations, and freelance work!
+❌ **Not needed for:**  
+- Simple static websites  
+- Projects with straightforward CRUD operations  
+
+---
+
+> 🚀 *"Progress over perfection"*  
+> 🔗 Open to collaborations and opportunities!  
+> 📫 Let's connect and create something amazing!
