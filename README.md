@@ -1,5 +1,5 @@
 # 👩‍💻 Sahar Fatima Devjani  
-**BSCS Student | Business React Developer | Django Enthusiast | Digital Marketer**  
+**BSCS Student | React Developer | Django Enthusiast | Digital Marketer**  
 
 📍 Karachi, Pakistan | ✉️ [sahardevjani635@gmail.com](mailto:sahardevjani635@gmail.com) | 📞 [+92-325-2160713](tel:+923252160713)  
 
@@ -31,7 +31,7 @@ Final year Computer Science student at MAJU building practical solutions with Re
 🔹 Managing digital presence for family spice business (Devjani Masala)  
 🔹 Passionate about creating business-focused web applications  
 
-*"Turning coffee (and chai!) into code since 2020"* ☕→💻  
+*"Turning chai into code since 2019"* ☕→💻  
 
 ---
 
