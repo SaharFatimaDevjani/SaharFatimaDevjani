@@ -22,7 +22,7 @@
 
 ## 🧩 About Me  
 
-I'm a final-year Computer Science student at MAJU building business-ready web solutions with React and Django. Currently leveling up through Meta's Front-End Certificate while managing Devjani Masala's digital presence.  
+I'm a Computer Science Graduate at MAJU building business-ready web solutions with React,Java,Wordpress and Django. Currently leveling up through Meta's Front-End Certificate while managing Devjani Masala's digital presence.  
 
 🔹 **Build**: Scalable web apps with React & Django  
 🔹 **Learn**: Currently mastering advanced frontend (2/9 Meta courses completed)  
@@ -73,8 +73,8 @@ I'm a final-year Computer Science student at MAJU building business-ready web so
 **Tech:** WordPress, Custom CSS  
 🌐 *Privately hosted*  
 
-### 8. Devjani Masala (In Progress)  
-*Upcoming WooCommerce store*  
+### 8. Devjani Masala (Wordpress Site)
+**Website URL** (https://devjaninaturals.com/)
 **Current Work:** Social media marketing on [Facebook](https://www.facebook.com/DevjaniMasalaDryFruits) & [Instagram](https://www.instagram.com/devjanimasaladryfruits/)  
 
 ---
@@ -116,7 +116,7 @@ I'm a final-year Computer Science student at MAJU building business-ready web so
 
 ## 🎓 Education & Certifications  
 
-**BSCS** - Muhammad Ali Jinnah University (2020-2024)  
+**BSCS** - Muhammad Ali Jinnah University (2020-2026)  
 
 **Ongoing:**  
 - Meta Front-End Developer Professional Certificate (2/9 courses completed)
