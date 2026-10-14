@@ -34,11 +34,11 @@ I build full-stack web applications with **React, Node.js, Express, MongoDB and 
 **Software Design Engineer** — Teresol &nbsp;·&nbsp; *Jun 2026 – Present*
 - Working on a production banking application using Vue.js and Camunda (BPMN workflows)
 
-**MERN Stack Intern** — 10Pearls (Shine Internship Program) &nbsp;·&nbsp; *Jun 2025 – Sep 2025*
+**MERN Stack Intern** — 10Pearls (Shine Internship Program) &nbsp;·&nbsp; *Jun 2025 – Aug 2025*
 - Built a full-stack notes app (React, Node.js, MongoDB) with authentication, rich-text editing and structured logging
 - Followed code-quality practices including unit testing and SonarQube analysis
 
-**AI Product Development Fellow** — Click Chain Academy (CodeGirls) &nbsp;·&nbsp; *May 2025 – Aug 2025*
+**AI Product Development Fellow** — Click Chain Academy (CodeGirls) &nbsp;·&nbsp; *Apr 2025 – Jun 2025*
 - Worked in Agile teams to design and build chatbot and prediction features with Python and scikit-learn
 - Designed product flows and interfaces in Figma
 
