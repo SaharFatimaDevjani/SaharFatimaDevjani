@@ -53,8 +53,8 @@ I build full-stack web applications with **React, Node.js, Express, MongoDB and 
 
 ## Featured Projects
 
-### 👓 VTry — Virtual Eyewear Try-On *(Final Year Project)*
-Online eyewear store where customers try frames on live through their webcam, using MediaPipe face tracking.
+### 👓 VTry — Virtual Accessories Try-On *(Final Year Project)*
+Online accessories store with live webcam try-on using MediaPipe face tracking. Eyewear try-on is live, with more accessory types in progress.
 **Tech:** React · Node.js · Express · MongoDB · MediaPipe · JWT · Cloudinary
 💻 [Code](https://github.com/SaharFatimaDevjani/VTryFYP)
 
@@ -143,7 +143,7 @@ Product management dashboard with dynamic forms and a responsive data table.
 
 | Certification | Issuer |
 |---|---|
-| Meta Front-End Developer Professional Certificate | Meta (Coursera) |
+| Introduction to Front-End Development · Programming with JavaScript · HTML and CSS in depth · React Basics | Meta (Coursera) |
 | Crash Course on Python | Google (Coursera) |
 | SQL Specialization | University of Colorado Boulder (Coursera) |
 | Node.js | Simplilearn / MindLuster |
